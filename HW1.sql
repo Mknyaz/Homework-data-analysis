@@ -1,3 +1,5 @@
+-- Князятов Михаил
+
 CREATE TABLE films (
  title TEXT NOT NULL,
   id INTEGER PRIMARY KEY,
