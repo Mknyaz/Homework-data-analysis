@@ -1,6 +1,6 @@
 -- Князятов Михаил
 
-CREATE TABLE films (
+CREATE TABLE  films (
  title TEXT NOT NULL,
   id INTEGER PRIMARY KEY,
  country TEXT NOT NULL,
