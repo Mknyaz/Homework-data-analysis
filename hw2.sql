@@ -1,6 +1,6 @@
 SELECT 'Князятов Михаил';
 -- первый запрос
-SELECT * FROM ratings LIMIT 145 OFFSET 10;
+SELECT * FROM ratings LIMIT 10;
 SELECT * FROM links WHERE imbdId LIKE '%42' AND movieId BETWEEN 100 AND 1000;
 
 -- второй запрос
